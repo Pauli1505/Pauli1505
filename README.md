@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me: my discord is Pauli1505
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: im a boring guy
+- ⚡ Fun fact: im the first leader of a team called librex
 
 <!---
 Pauli1505/Pauli1505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
